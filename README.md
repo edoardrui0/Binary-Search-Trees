@@ -1,4 +1,5 @@
 # Binary-Search-Trees
 
-testing readme views
+This README will be updated later on in the project
+
 https://www.theodinproject.com/lessons/ruby-binary-search-trees
